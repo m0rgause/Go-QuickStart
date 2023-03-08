@@ -6,7 +6,7 @@ start with `go-start -pkg=awesomeProject` and see a miracle come out
 
 ## Installation
 if you use linux run `install.sh` with sudo\
-`sudo install.sh`
+`sudo bash install.sh`
 
 ## Structure folder
 ![image2](/img/folder.png)
